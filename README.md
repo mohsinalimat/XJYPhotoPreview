@@ -3,7 +3,7 @@
 照片预览组件
 
 
-![image](https://github.com/JunyiXie/XJYPhotoPreview/raw/master/photos/image1.PNG)
+![image](https://github.com/JunyiXie/XJYPhotoPreview/raw/master/images/image1.PNG)
 
 
 使用方法:
